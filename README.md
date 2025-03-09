@@ -1,6 +1,5 @@
-Hello! 
-
-I'm a Senior Business Intelligence Coordinator and I'm studying about Data Science!
+Hello!
+I'm a Backoffice Manager, and nowadays I'm studying Data Science to improve my skills and learn how to grow my business. I believe that Big Data is the future and a powerful tool to help global development.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Micaela1992&show_icons=true&theme=dracula)
 
